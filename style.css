@@ -3,6 +3,9 @@ td:nth-child(1) {
     text-align: center;
 
 }
+div:not(:first-of-type) {
+    padding-top:20px;
+}
 .timeline-container td {
     padding:10px;
 }
