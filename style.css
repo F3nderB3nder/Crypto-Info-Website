@@ -1,0 +1,8 @@
+td:nth-child(1) {
+    border-right: 4px solid green;
+    text-align: center;
+
+}
+.timeline-container td {
+    padding:10px;
+}
